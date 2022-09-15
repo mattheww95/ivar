@@ -1,3 +1,8 @@
+#TODO
+ - [ ] change integers ivolving depth to unsigned
+ - [ ] alter command line args so that reference sequence is specified only once
+
+
 iVar
 ===========
 
